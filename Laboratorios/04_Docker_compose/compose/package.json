@@ -1,0 +1,13 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "App Node conectada a MySQL",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^3.9.0"
+  }
+}
